@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-
+//Oliver Alexander Hernandez Zarazua 2410177
 public class Test_db{
      public static void main(String[] args) throws ClassNotFoundException, SQLException
  { 
